@@ -12,3 +12,14 @@ h1 {
   font-weight: bold;
   text-decoration: underline;
 }
+
+#pc-out,
+#user-out {
+  font-weight: bold;
+  font-size: 90px;
+}
+
+#out-message {
+  font-weight: bold;
+  font-size: 30px;
+}
